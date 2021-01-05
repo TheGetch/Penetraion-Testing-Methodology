@@ -1,12 +1,13 @@
-Online version located here:
-<https://github.com/TheGetch/TJ-JPT/wiki>
-
 # Project TJ-JPT
 
 ## Release Date
 May 8th 2020
 
 ## Introduction
+
+Online version located here:
+<https://github.com/TheGetch/TJ-JPT/wiki>
+
 As a pentester, there are many great resources, cheat sheets, and guidelines that contain a large amount of valuable 
 information. However, it can be frustrating and time-consuming to find these notes or resources that are scattered all 
 over the place. Not to mention the large amount of notes you have stored locally across your system with several 
