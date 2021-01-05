@@ -1,3 +1,6 @@
+Online version located here:
+<https://github.com/TheGetch/TJ-JPT/wiki>
+
 # Project TJ-JPT
 
 ## Release Date
