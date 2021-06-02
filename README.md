@@ -8,6 +8,10 @@ May 8th 2020
 Online version located here:
 <https://github.com/TheGetch/TJ-JPT/wiki>
 
+I've since switched from Joplin to Obsidian, thus have included the raw markdown files under "Raw Markdown" directory for easy import into Obsidian (or other Markdown reading app). 
+
+---
+
 As a pentester, there are many great resources, cheat sheets, and guidelines that contain a large amount of valuable 
 information. However, it can be frustrating and time-consuming to find these notes or resources that are scattered all 
 over the place. Not to mention the large amount of notes you have stored locally across your system with several 
